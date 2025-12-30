@@ -2,7 +2,7 @@
 include::./attributes.adoc[]
 
 [.title]
-🇫🇷 link:https://www.esgi.fr/campus-lyon.html[ESGI Lyon,window="_blank"] - M2 IW S1 2024/2025
+🇫🇷 link:https://www.esgi.fr/campus-lyon.html[ESGI Lyon,window="_blank"] - M1 IW T3 2025/2026
 
 image::qrcode.png["QRCode to this presentation",height=150]
 
@@ -10,7 +10,7 @@ image::qrcode.png["QRCode to this presentation",height=150]
 * Présentation disponible à l’adresse: {presentationUrl}[{presentationUrl}]
 * Version PDF de la présentation : link:slides.pdf[{pdf_icon} Cliquez ici,window="_blank"]
 * Contenu sous licence link:https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License,window="_blank"]
-** Une partie du contenu provient de link:https://github.com/cicd-lectures/slides[] (auteurs: link:https://cicd-lectures.github.io/slides/2021/#/julien_levesy[Julien Levesy,window="_blank"] et moi-même)
+** Une partie du contenu provient de link:https://github.com/cicd-lectures/slides[] (auteurs: link:https://cicd-lectures.github.io/slides/2021/#/julien_levesy[Julien Levesy,window="_blank"] et (auteurs: link:https://cicd-lectures.github.io/slides/2021/#/damien_duportal[Damien Duportal,window="_blank"])
 * Code source de la présentation: link:{repositoryUrl}[{github_icon} {repositoryUrl},window="_blank"]
 
 == Comment utiliser cette présentation ?
@@ -80,7 +80,6 @@ include::./chapitres/bibliographie.adoc[leveloffset=1]
 == Merci !
 
 {author1_mail}
-{author2_mail}
 
 [.small]
 link:{presentationUrl}[Slides: {presentationUrl}]

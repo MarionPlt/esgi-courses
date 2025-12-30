@@ -4,17 +4,17 @@ on:
   - push
 jobs:
   dire_bonjour:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
 # tag::container[]
     container:
       image: ghcr.io/dduportal/esgi-gitpod
       options: --user=root
 # end::container[]
     steps:
-      - uses: actions/checkout@v4 # Récupère le contenu du dépôt correspondant au commit du workflow en cours
+      - uses: actions/checkout@v6 # Récupère le contenu du dépôt correspondant au commit du workflow en cours
 # end::common[]
 # tag::setupnode[]
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: {nodejs_version}
 # end::setupnode[]

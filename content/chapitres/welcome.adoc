@@ -7,23 +7,12 @@ La suite: vers le bas ⬇️
 [{invert}]
 == Marion PLAYOUT
 
-* Software engineer chez https://www.axway.com/fr[Axway,window="_blank"] 
+* DevOps engineer chez https://www.axway.com/fr[Axway,window="_blank"] 
 
 * Me contacter :
 ** {author1_mail}
 ** link:https://github.com/marionplt[{github_icon} marionplt,window="_blank"]
 ** link:https://www.linkedin.com/in/marion-playout-4104a190/[{linkedin_icon} Marion Playout,window=_blank]
-
-[{invert}]
-== Damien DUPORTAL
-
-* link:https://touilleur-express.fr/2022/07/17/devenir-staff-engineer/[Staff Software Engineer, window="_blank"] chez https://www.cloudbees.com[CloudBees,window="_blank"] pour le projet link:https://www.jenkins.io/[Jenkins,window="_blank"] 👨🏻‍⚖️
-* Freelancer
-
-* Me contacter :
-** {author2_mail}
-** link:https://github.com/dduportal[{github_icon} dduportal,window="_blank"]
-** link:https://www.linkedin.com/in/damien-duportal-ab70b524/[{linkedin_icon} Damien Duportal,window=_blank]
 
 == Et vous ?
 
@@ -41,17 +30,20 @@ video::yourturn.mp4[width="600",options="autoplay,loop,nocontrols"]
 
 == Calendrier
 
-* *Présentiel* 🎓 Mardi 5 novembre 2024 - 09h45 -> 17h15
-* *Présentiel* 🎓 Mercredi 4 décembre 2024 - 14h00 -> 17h15
-* *Présentiel* 🎓 Jeudi 5 décembre 2024 - 09h45 -> 15h15
-* *Présentiel* 🎓 Jeudi 9 janvier 2025 - 09h45 -> 15h15
+* *Présentiel* 🎓 Lundi 8 juin 2026 - 09h45 -> 17h15
+* *Présentiel* 🎓 Mercredi 10 juin 2026 - 14h00 -> 17h15
+* *Présentiel* 🎓 Mercredi 22 juillet 2026 - 14h00 -> 17h15
+* *Distanciel* 🎓 Vendredi 24 juillet 2026 - 08h00 -> 13h00
+* *Distanciel* 🎓 Vendredi 31 juillet 2026 - 08h00 -> 17h15
 
 == Evaluation
 
 video::ohno.mp4[width="200",options="autoplay,loop,nocontrols"]
 
 * *Pourquoi ?* s'assurer que vous avez acquis un minimum de concepts
-* *Quoi ?* Deux notes sur 20 (25% Contrôle Continu, 75% Projet)
+* *Quoi ?* 
+** Avant: un premier quizz pour jauger vos connaissances avant ce cours
+** Après: deux notes sur 20 (25% Contrôle Continu, 75% Projet)
 * *Comment ?*
 ** Contrôle Continu: Participation + attention pendant le cours, respect des échéances et des autres, éventuellement un QCM
 ** Un projet GitHub (public) évalué selon une liste de critères _pré-déterminés_
